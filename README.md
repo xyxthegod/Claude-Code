@@ -21,13 +21,13 @@ Claude Code Free is a patched version of Anthropic's Claude Code CLI that bypass
 
 ```bash
 # Clone the repository
-git clone https://github.com/xyxthegod/Claude-Code/
+git clone https://github.com/YOUR_USERNAME/claude-code-free.git
 
 # Enter the directory
-cd Claude Code
+cd claude-code-free
 
 # Install
 npm install && npm link
 
 # Run
-Claude Unlock
+claude
